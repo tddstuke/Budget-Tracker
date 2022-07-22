@@ -2,21 +2,21 @@ const CACHE_NAME = "budget-tracker-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v2";
 
 const FILES_TO_CACHE = [
-  "/",
-  "/index.html",
-  "/server.js",
-  "/manifest.json",
-  "/js/index.js",
-  "/models/transaction.js",
-  "/public/css/style.css",
-  "/public/icons/icon-72x72.png",
-  "/public/icons/icon-96x96.png",
-  "/public/icons/icon-128x128.png",
-  "/public/icons/icon-144x144.png",
-  "/public/icons/icon-152x152.png",
-  "/public/icons/icon-192x192.png",
-  "/public/icons/icon-384x384.png",
-  "/public/icons/icon-512x512.png",
+  "./",
+  "./index.html",
+  "./server.js",
+  "./manifest.json",
+  "./js/index.js",
+  "./models/transaction.js",
+  "./public/css/style.css",
+  "./public/icons/icon-72x72.png",
+  "./public/icons/icon-96x96.png",
+  "./public/icons/icon-128x128.png",
+  "./public/icons/icon-144x144.png",
+  "./public/icons/icon-152x152.png",
+  "./public/icons/icon-192x192.png",
+  "./public/icons/icon-384x384.png",
+  "./public/icons/icon-512x512.png",
 ];
 
 // Install the service worker
