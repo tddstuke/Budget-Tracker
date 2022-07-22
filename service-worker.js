@@ -3,10 +3,10 @@ const DATA_CACHE_NAME = "data-cache-v2";
 
 const FILES_TO_CACHE = [
   "./server.js",
-  "./manifest.json",
   "./public/index.html",
-  "./public/js/index.js",
+  "./routes/api.js",
   "./models/transaction.js",
+  "./public/js/index.js",
   "./public/css/style.css",
   "./public/icons/icon-72x72.png",
   "./public/icons/icon-96x96.png",
