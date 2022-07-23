@@ -1,8 +1,4 @@
-const CACHE_NAME = "budget-tracker-cache-v2";
-const DATA_CACHE_NAME = "data-cache-v2";
-
 const FILES_TO_CACHE = [
-  "/",
   "/index.html",
   "/js/index.js",
   "/css/styles.css",
@@ -15,6 +11,10 @@ const FILES_TO_CACHE = [
   "/icons/icon-384x384.png",
   "/icons/icon-512x512.png",
 ];
+
+const APP_PREFIX = "Budget-Tracker-";
+const VERSION = "version_01";
+const CACHE_NAME = APP_PREFIX + VERSION;
 
 self.addEventListener("install", function (e) {
   e.waitUntil(
