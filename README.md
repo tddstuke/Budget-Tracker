@@ -4,14 +4,12 @@
 
 ## Table of Contents
 
-- [Budget-Tracker](#budget-tracker)
-  - [Table of Contents](#table-of-contents)
-  - [Description <a id = "description-"></a>](#description-)
-  - [Link to deployed App <a id = "Link-">](#link-to-deployed-app-a-id--link-)
-  - [License <a id = "license-"></a>](#license-)
-  - [Questions <a id = "questions-"></a>](#questions-)
+  - [Description](#description)
+  - [Link to deployed App](#Link)
+  - [License](#license)
+  - [Questions](#questions)
 
-## Description <a id = "description-"></a>
+## Description <a id = "description"></a>
 
 - AS AN avid traveler
 - I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
@@ -23,17 +21,21 @@
 - WHEN the user reestablishes an internet connection
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their = totals are updated
 
-## Link to deployed App <a id = "Link-">
+## Link to deployed App <a id = "Link">
 
 [Budget Tracker](https://infinite-shelf-94097.herokuapp.com/)
 
-## License <a id = "license-"></a>
+## License <a id = "license"></a>
 
 Licensed under the [MIT License](./License.txt)
 
-## Questions <a id = "questions-"></a>
+## Questions <a id = "questions"></a>
 
 You can reach me through my GitHub account or through email listed below with any questions.
 
 - [My GitHub](https://github.com/tddstuke)
 - [My email](mailto:tddstuke@gmail.com)
+
+## Screenshot
+
+![Screenshot (29)](https://user-images.githubusercontent.com/98231816/180663502-f5986b28-0489-44ef-b62c-863246d3ff7d.png)
