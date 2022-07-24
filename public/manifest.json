@@ -43,10 +43,10 @@
       "type": "image/png"
     }
   ],
-  "display": "standalone",
-  "start_url": ".",
-  "theme_color": "#ffffff",
   "orientation": "portrait",
   "description": "Budget tracking app that allows credit and debit transactions while both online and off",
-  "background_color": "#6666ff"
+  "theme_color": "#ffffff",
+  "background_color": "#6666ff",
+  "display": "standalone",
+  "start_url": "."
 }
